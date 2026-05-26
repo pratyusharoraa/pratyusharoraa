@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on building scalable backend systems and intelligent applications using Python technologies like Flask and FastAPI. I enjoy creating clean APIs, optimizing backend architecture, and solving complex Data Structures & Algorithms problems while exploring real-world software engineering practices.<br><br>👯 I’m looking to collaborate on machine learning projects, API development, backend infrastructure, and innovative tech products that combine performance with practical impact. I’m especially interested in projects involving automation, AI integrations, and scalable system design.<br><br>🤝 I’m looking for help with advanced backend architecture, distributed systems, DevOps workflows, cloud deployment, and improving production-level machine learning implementations.<br><br>🌱 I’m currently learning advanced backend development using Python, Flask, FastAPI, PostgreSQL, Redis, and Docker while continuously improving my problem-solving skills in DSA and system design concepts.<br><br>💬 Ask me about backend development, REST APIs, machine learning projects, Python, Flask, FastAPI, database design, optimization techniques, and scalable software architecture.<br><br>⚡ Fun fact: Besides coding, I’m deeply passionate about design, video editing, literature, filmmaking, and creative storytelling. I enjoy blending creativity with technology to build projects that are both functional and visually engaging.<br>
+🔭 I’m currently working on scalable backend systems, APIs, and ML-based applications using Python, Flask, and FastAPI.<br><br>
+
+👯 I’m looking to collaborate on backend development, machine learning projects, and API building.<br><br>
+
+🤝 I’m looking for help with advanced backend architecture, system design, and production-level ML deployment.<br><br>
+
+🌱 I’m currently learning Flask, FastAPI, PostgreSQL, Redis, Docker, and improving DSA & system design skills.<br><br>
+
+💬 Ask me about Python, backend development, REST APIs, machine learning, and scalable architectures.<br><br>
+
+⚡ Fun fact: I’m also passionate about design, video editing, filmmaking, literature, and creative storytelling.<br>
 
 
 ## 🌐 Socials:
