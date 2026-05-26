@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on scalable backend systems, APIs, and ML-based applications using Python, Flask, and FastAPI.<br><br>
-👯 I’m looking to collaborate on backend development, machine learning projects, and API building.<br><br>
-🤝 I’m looking for help with advanced backend architecture, system design, and production-level ML deployment.<br><br>
-🌱 I’m currently learning Flask, FastAPI, PostgreSQL, Redis, Docker, and improving DSA & system design skills.<br><br>
-💬 Ask me about Python, backend development, REST APIs, machine learning, and scalable architectures.<br><br>
-⚡ Fun fact: I’m also passionate about design, video editing, filmmaking, literature, and creative storytelling.<br>
+🔭 I’m currently working on scalable backend systems, APIs, and ML-based applications using Python, Flask, and FastAPI.<br>
+👯 I’m looking to collaborate on backend development, machine learning projects, and API building.<br>
+🤝 I’m looking for help with advanced backend architecture, system design, and production-level ML deployment.<br>
+🌱 I’m currently learning Flask, FastAPI, PostgreSQL, Redis, Docker, and improving DSA & system design skills.<br>
+💬 Ask me about Python, backend development, REST APIs, machine learning, and scalable architectures.<br>
+⚡ Fun fact: I’m also passionate about design, video editing, filmmaking, literature, and creative storytelling.
 
 
 ## 🌐 Socials:
