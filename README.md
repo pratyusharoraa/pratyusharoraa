@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratyusharoraa/pratyusharoraa/main/assets/banner.png" width="100%" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on scalable backend systems, APIs, and ML-based applications using Python, Flask, and FastAPI.<br>
 👯 I’m looking to collaborate on backend development, machine learning projects, and API building.<br>
