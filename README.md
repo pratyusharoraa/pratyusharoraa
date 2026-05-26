@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratyusharoraa/pratyusharoraa/main/assets/banner.png" width="100%" />
+  <img src="assests/banner.png" width="100%" />
 </p>
 
 # 💫 About Me:
