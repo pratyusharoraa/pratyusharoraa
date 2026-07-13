@@ -2,14 +2,14 @@
   <img src="assests/banner.png" width="100%" />
 </p>
 
-# 💫 About Me:
-🏔️ A developer from the hills of Shimla who loves building real-world applications through code, creativity, and problem-solving.<br>
-🔭 Currently working on backend systems, APIs, and machine learning projects using Python, Flask, and FastAPI while exploring scalable software architecture.<br>
-🌱 Learning more about PostgreSQL, Redis, Docker, system design, and sharpening my DSA & backend engineering skills every day.<br>
-👯 Looking to collaborate on backend development, AI/ML projects, APIs, and innovative ideas that combine creativity with technology.<br>
-💬 Ask me about Python, backend development, REST APIs, machine learning, design, editing, or building cool stuff on the internet.<br>
-🎬 Beyond coding, I’m passionate about design, filmmaking, video editing, literature, and storytelling — blending tech with creativity to make projects feel alive.<br>
-⚡ Fun fact: Most of my ideas start somewhere between late-night coding sessions, mountain weather, and random creative sparks.<br>
+# About Me:
+- A developer from the hills of Shimla who loves building real-world applications through code, creativity, and problem-solving.<br>
+- Currently working on backend systems, APIs, and machine learning projects using Python, Flask, and FastAPI while exploring scalable software architecture.<br>
+- Learning more about PostgreSQL, Redis, Docker, system design, and sharpening my DSA & backend engineering skills every day.<br>
+- Looking to collaborate on backend development, AI/ML projects, APIs, and innovative ideas that combine creativity with technology.<br>
+- Ask me about Python, backend development, REST APIs, machine learning, design, editing, or building cool stuff on the internet.<br>
+- Beyond coding, I’m passionate about design, filmmaking, video editing, literature, and storytelling — blending tech with creativity to make projects feel alive.<br>
+- Fun fact: Most of my ideas start somewhere between late-night coding sessions, mountain weather, and random creative sparks.<br>
 
 
 ## 🌐 Socials:
